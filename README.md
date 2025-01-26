@@ -1,2 +1,2 @@
-# random-data-generator-for-student-record
+# Random data generator for [student record](https://github.com/nieinter/student-record)
 Simple data generator
